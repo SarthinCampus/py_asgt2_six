@@ -11,6 +11,7 @@ Sum
 Average (as float)
 
 Output format:
+
   Max: 5
   
   Min: 1
